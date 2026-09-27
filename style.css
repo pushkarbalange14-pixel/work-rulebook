@@ -832,4 +832,16 @@ footer {
   .navbar-inner {
     padding: 0 1rem;
   }
+  .video-section {
+  width: 100%;
+  line-height: 0;
+  overflow: hidden;
+}
+
+.video-fullwidth {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
 }
